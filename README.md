@@ -1,4 +1,4 @@
-This project is under supervised by Professor Scott Sanner from the University of Toronto. 
+This project is under the supervision of Professor Scott Sanner from the University of Toronto. 
 
 Q1. Given two sorted lists of Integers as input, write a method that produces a sorted list of Integers as output that represents the union of the two input lists. If the size of the two input lists are respectively a and b, the running time and space required by the algorithm should both be O(a + b). MERGE SORT
 
